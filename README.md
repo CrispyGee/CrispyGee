@@ -13,7 +13,7 @@ I am an experienced full stack developer (software architecture, distributed sys
 
 
 <!--- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CrispyGee&show_icons=true&count_private=true&show_icons=true&theme=codeSTACKr) -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CrispyGee&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CrispyGee&count_private=true&show_icons=true)
 
 
 [![GitHub followers](https://img.shields.io/github/followers/CrispyGee?style=social)](https://github.com/CrispyGee)
