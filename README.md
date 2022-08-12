@@ -2,7 +2,7 @@
   
 I'm Christian Plotzky, aka CrispyGee💥 🕉️ </h2>
 
-I am an experienced full stack developer (software architecture, distributed systems, web and app development, virtual reality, machine learning and game development) and a researcher.
+I am an experienced full stack developer (software architecture, distributed systems, web and app development, virtual reality, machine learning) and a researcher.
 
 ### Current: 
 - [research on virtual reality in health care education](https://www.researchgate.net/profile/Christian-Plotzky)
