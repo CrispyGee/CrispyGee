@@ -11,9 +11,7 @@ I am an experienced full stack developer (software architecture, distributed sys
 
 ### GitHub Stats: 📊
 
- <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=CrispyGee&theme=react&line_height=40&hide=css"/> </a>
-
-<!--- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CrispyGee&show_icons=true&count_private=true&show_icons=true&theme=codeSTACKr) -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CrispyGee&show_icons=true&count_private=true&show_icons=true&theme=codeSTACKr)
 
 <!---![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CrispyGee&count_private=true&show_icons=true) -->
 
