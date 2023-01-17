@@ -11,7 +11,7 @@ I am an experienced full stack developer (software architecture, distributed sys
 
 ### GitHub Stats: 📊
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CrispyGee&show_icons=true&count_private=true&show_icons=true&theme=codeSTACKr)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CrispyGee&count_private=true)
 
 <!---![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CrispyGee&count_private=true&show_icons=true) -->
 
